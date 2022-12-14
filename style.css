@@ -454,6 +454,7 @@ textarea:focus {
   }
 
   .contents {
+    height: 100%;
     background-image: url("./img/image_dots_home.svg");
     background-repeat: no-repeat;
     background-position: right bottom;
