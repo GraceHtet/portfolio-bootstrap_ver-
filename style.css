@@ -21,6 +21,7 @@ body {
 }
 
 /* START NAVBAR SECTION */
+
 .navbar {
   width: 100%;
   background-image: url("./img/mobile_navbg.svg");
@@ -35,6 +36,13 @@ body {
   line-height: 24px;
   text-align: center;
 }
+.sticky-top {
+  background-color: white;
+}
+.nav-pills .nav-link.active {
+  background-color: #7d7c84;
+}
+
 /* END NAVBAR SECTION */
 
 /* START HEADLINE SECTION */
